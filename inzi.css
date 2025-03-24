@@ -1,0 +1,25 @@
+.main{
+    height: 450px;
+    width: 600px;
+    background-color: #ff0000;
+    border:2px solid black;
+}
+.a{
+   height: 150px;
+   width: 600px;
+   
+}
+.b{
+    height:150px;
+    width: 600px;
+    background-color: #3c5aa3;
+    position: absolute;
+    top: 160px;
+}
+.c{
+    height:150px;
+    width: 600px;
+    background-color:#e2ae58 ;
+    position: absolute;
+    top: 310px;
+}
